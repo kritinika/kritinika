@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=SoftWare+Development+Engineer+1;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
 </h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="">
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="your image">
 </p>
 
 <div align="center">
@@ -20,25 +20,27 @@
 ### 💡 About Me
 
 - 💬 I'm always eager to chat about **React, Node.js, Express.js, and MongoDB**.
-- 📫 You can reach me at **kartiksharma15032005@gmail.com**.
+- 📫 You can reach me at **kirtisharma8822103020@gmail.com**.
 - ⚡ Fun fact: I'm an avid **competitive coder**! My keyboard and I have a special bond. 😉
 
 ---
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-sharma-67401b326/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik" height="30" width="40" />
+  <a href="www.linkedin.com/in/kirti-sharma-3ba775279" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/onenonly_kartik?igsh=MW0zM3U1ajV6M2Jzbw==" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik" height="30" width="40" />
+  <a href="" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirti
+		
+		" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-   <a href="https://codolio.com/profile/kartik9077" target="blank">
+   <a href="https://codolio.com/profile/kirtinika" target="blank">
     <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="kartik" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-   <a href="https://www.codechef.com/users/sharma9077" target="blank">
+   <a href="https://www.codechef.com/users/spry_bats_25" target="blank">
     <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="kartik" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
