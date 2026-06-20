@@ -39,17 +39,17 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
    <a href="https://www.codechef.com/users/spry_bats_25" target="blank">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="kartik" height="50" width="50" />
+    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="kirti" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <a href="https://www.naukri.com/code360/profile/kartikop" target="blank">
-    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="kartik" height="50" width="50" />
+  <a href="" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="codolio" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/kartik9077/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartik" height="50" width="50" />
+  <a href="" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirti" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/kartik9077" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartik" height="30" width="40" />
+  <a href="" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kirti" height="30" width="40" />
   </a>
 </p>
 
@@ -85,13 +85,13 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritinika&theme=jolly" />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartik9077&theme=jolly" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kritinika&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kritinika&theme=jolly" />
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartik9077&theme=jolly" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartik9077&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kritinika&theme=jolly" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kritinika&theme=jolly" />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
@@ -113,12 +113,12 @@ Feel free to explore my repositories and connect with me. I'm always open to col
 
 <!-- GitHub Streak -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kartik9077&theme=jolly&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kritinika&theme=jolly&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
 </div>
 
 <!-- Top Languages Summary -->
 <div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik9077&show_icons=true&theme=jolly&hide_border=true&card_width=500" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritinika&show_icons=true&theme=jolly&hide_border=true&card_width=500" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -126,11 +126,11 @@ Feel free to explore my repositories and connect with me. I'm always open to col
 <!-- GitHub Contributors -->
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=kartik9077&limit=5&theme=jolly&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kritinika&limit=5&theme=jolly&hide_border=true&combine_all_yearly_contributions=true)
 </div>
 
 <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 <h1 align="center"> 🏆  GitHub Trophies: </h1>
 
-![](https://github-profile-trophy.vercel.app/?username=kartik9077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kritinika&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /># kirtiProfile
